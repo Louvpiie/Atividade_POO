@@ -1,7 +1,7 @@
 package Exercicio_1;
 
 public class ContaBancaria {
-	protected String cliente;
+    protected String cliente;
     protected String numeroConta;
     protected double saldo;
 
